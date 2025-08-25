@@ -1,7 +1,6 @@
 streamlit
 openai
 neo4j
-pickle
 json
 numpy
 sentence_transformers
