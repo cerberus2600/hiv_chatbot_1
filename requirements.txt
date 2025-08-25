@@ -1,9 +1,10 @@
 streamlit
 openai
 neo4j
-numpy
 sentence_transformers
-sklearn
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
 typing
 datetime
 hashlib
